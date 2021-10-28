@@ -1,0 +1,102 @@
+[DEBUG] 2021-10-28 11:56:09.531 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 11:56:15.025 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 11:56:16.415 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 11:56:16.670 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 11:56:22.251 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 11:56:22.757 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 11:56:23.495 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 11:56:31.875 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 11:56:36.461 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 11:56:39.551 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 11:56:39.639 [main] amazonHomeTest - Selected pay on delivery
+[INFO ] 2021-10-28 11:56:41.286 [main] amazonHomeTest - Reached home page
+[INFO ] 2021-10-28 11:56:42.839 [main] amazonHomeTest - Sign Out Successful
+[DEBUG] 2021-10-28 14:44:18.780 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 14:44:23.365 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 14:44:24.523 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 14:44:24.777 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 14:44:30.323 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 14:44:30.843 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 14:44:31.524 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 14:44:39.041 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 14:44:43.434 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 14:44:46.735 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 14:44:46.829 [main] amazonHomeTest - Selected pay on delivery
+[INFO ] 2021-10-28 14:44:48.422 [main] amazonHomeTest - Reached home page
+[INFO ] 2021-10-28 14:44:49.716 [main] amazonHomeTest - Sign Out Successful
+[DEBUG] 2021-10-28 14:58:37.218 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 14:58:41.700 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 14:58:43.238 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 14:58:43.482 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 14:58:48.162 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 14:58:48.762 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 14:58:49.568 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 14:58:55.756 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 14:59:00.452 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 14:59:03.852 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 14:59:03.938 [main] amazonHomeTest - Selected pay on delivery
+[INFO ] 2021-10-28 14:59:05.469 [main] amazonHomeTest - Reached home page
+[INFO ] 2021-10-28 14:59:06.688 [main] amazonHomeTest - Sign Out Successful
+[DEBUG] 2021-10-28 15:32:23.817 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 15:32:29.196 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 15:32:30.561 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 15:32:30.818 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 15:32:36.945 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 15:32:37.432 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 15:32:38.218 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 15:32:43.234 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 15:32:48.254 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 15:32:51.715 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 15:32:51.803 [main] amazonHomeTest - Selected pay on delivery
+[INFO ] 2021-10-28 15:32:53.253 [main] amazonHomeTest - Reached home page
+[INFO ] 2021-10-28 15:32:54.643 [main] amazonHomeTest - Sign Out Successful
+[DEBUG] 2021-10-28 16:03:35.713 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 16:03:42.946 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 16:03:44.967 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 16:03:45.488 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 16:03:52.975 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 16:03:53.731 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 16:03:55.008 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 16:04:02.560 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 16:04:08.098 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 16:04:11.975 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 16:04:12.153 [main] amazonHomeTest - Selected pay on delivery
+[INFO ] 2021-10-28 16:04:14.031 [main] amazonHomeTest - Reached home page
+[DEBUG] 2021-10-28 16:04:52.120 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 16:04:58.424 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 16:05:00.676 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 16:05:01.121 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 16:05:08.130 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 16:05:08.892 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 16:05:09.770 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 16:05:17.293 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 16:05:23.317 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 16:05:27.578 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 16:05:27.719 [main] amazonHomeTest - Selected pay on delivery
+[INFO ] 2021-10-28 16:05:30.214 [main] amazonHomeTest - Reached home page
+[INFO ] 2021-10-28 16:05:32.021 [main] amazonHomeTest - Sign Out Successful
+[DEBUG] 2021-10-28 18:18:11.203 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 18:18:17.417 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 18:18:18.677 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 18:18:18.928 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 18:18:26.136 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 18:18:26.940 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 18:18:27.924 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 18:18:33.492 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 18:18:38.933 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 18:18:41.929 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 18:18:53.774 [main] amazonHomeTest - Reached home page
+[INFO ] 2021-10-28 18:18:55.453 [main] amazonHomeTest - Sign Out Successful
+[DEBUG] 2021-10-28 18:20:20.209 [main] amazonHomeTest - Chrome Launched
+[DEBUG] 2021-10-28 18:20:26.460 [main] amazonHomeTest - Amazon launched and button clicked
+[DEBUG] 2021-10-28 18:20:28.128 [main] amazonHomeTest - Username entered
+[DEBUG] 2021-10-28 18:20:28.452 [main] amazonHomeTest - Signin successfull
+[DEBUG] 2021-10-28 18:20:33.948 [main] amazonHomeTest - Search successfull
+[DEBUG] 2021-10-28 18:20:34.646 [main] amazonHomeTest - Searched for product with minimum price
+[INFO ] 2021-10-28 18:20:35.875 [main] amazonHomeTest - Product with minimum price selected
+[DEBUG] 2021-10-28 18:20:45.567 [main] amazonHomeTest - Added to cart
+[DEBUG] 2021-10-28 18:20:51.447 [main] amazonHomeTest - Clicked proceed to buy
+[INFO ] 2021-10-28 18:20:54.848 [main] amazonHomeTest - Selected address
+[INFO ] 2021-10-28 18:20:54.989 [main] amazonHomeTest - Selected pay on delivery
+[INFO ] 2021-10-28 18:20:56.973 [main] amazonHomeTest - Reached home page
+[INFO ] 2021-10-28 18:20:58.516 [main] amazonHomeTest - Sign Out Successful
